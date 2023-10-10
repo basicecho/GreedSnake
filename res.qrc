@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>Up.png</file>
+        <file>Down.png</file>
+        <file>Right.png</file>
+        <file>Left.png</file>
+		<file>apple.png</file>
+    </qresource>
+</RCC>
